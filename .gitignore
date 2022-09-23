@@ -10,5 +10,8 @@ npm-debug.log
 # Nuxt generate
 dist
 
+# coverage
+coverage
+
 # IDE
 .idea
