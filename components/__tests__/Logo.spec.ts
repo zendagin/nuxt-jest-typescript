@@ -1,5 +1,5 @@
 import { shallowMount } from "@vue/test-utils";
-import Logo from "../Logo";
+import Logo from "../Logo.vue";
 
 
 const factory = () => {
@@ -10,7 +10,7 @@ const factory = () => {
 describe("Logo", () => {
   test("mounts properly", () => {
     const wrapper = factory();
-    expect(wrapper.isVueInstance()).toBeTruthy();
+    expect(wrapper.vm).toBeTruthy();
   });
 
   test("renders properly", () => {
