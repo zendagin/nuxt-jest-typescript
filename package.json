@@ -1,8 +1,8 @@
 {
-  "name": "nuxt-jest",
+  "name": "nuxt-jest-ts",
   "version": "1.0.0",
-  "description": "Nuxt jest sample config",
-  "author": "Alex Gogl",
+  "description": "Nuxt jest typescript sample config",
+  "author": "Cheng Tak Kin",
   "private": true,
   "scripts": {
     "dev": "nuxt",

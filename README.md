@@ -1,6 +1,6 @@
-# Nuxt-Jest sample
+# Nuxt-Jest typescript sample
 
-> For detailed explanation on how this configuration works, read the corresponding article on [Medium](https://medium.com/@gogl.alex/nuxt-jest-setup-from-scratch-8905d3880daa).
+Modified from the work of [gogl.alex](https://github.com/agcty/nuxt-jest-sample) ([Medium](https://medium.com/@gogl.alex/nuxt-jest-setup-from-scratch-8905d3880daa))
 
 ## Build Setup
 
